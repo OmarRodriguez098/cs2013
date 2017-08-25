@@ -1,0 +1,12 @@
+# Ignore everything
+*
+#But not these files
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!bin
+!bin/
+!bin/**
